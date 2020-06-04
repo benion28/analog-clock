@@ -1,0 +1,16 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "An Analog Clock Using Pure JavaScript",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/analog-clock",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
